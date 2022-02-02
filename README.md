@@ -1,4 +1,4 @@
-### Bomber-это инструмент для SMS-спама.  Работает на Termux и на Linux.
+### Smsbaher-это инструмент для SMS-спама.  Работает на Termux и на Linux.
 
 ## Установка
 * apt update && apt upgrade;
